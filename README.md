@@ -14,11 +14,11 @@ Uses Steinhart-Hart equation to estimate the temperature from the 8266's analog 
     <tr>
       <th>
         <img src="./media/esp_Turkey.jpeg" alt="">
-        <br/><em> Turkey Probe in action *during* thanksgiving </em>
+        <br/><em> Turkey Probe in action during thanksgiving </em>
       </th>
         <th>
         <img src="./media/testESP.jpeg" alt="">
-        <br/><em> Moments *before* thanksgiving</em>
+        <br/><em> Just moments before thanksgiving</em>
       </th>
     </tr>
   </thead>
