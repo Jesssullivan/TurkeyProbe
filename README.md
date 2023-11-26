@@ -12,4 +12,4 @@ Uses Steinhart-Hart equation to estimate the temperature from the 8266's analog 
 
 |||
 |--|--|
-|![]("./media/esp_Turkey.jpeg")|![]("./media/VtestESP.jpeg")|
+|![](./media/esp_Turkey.jpeg)|![](./media/VtestESP.jpeg)|
